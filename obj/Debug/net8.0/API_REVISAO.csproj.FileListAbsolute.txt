@@ -126,3 +126,4 @@ C:\Users\VITORMARCELOBARZICKN\Desktop\projeto ewb\API_REVISAO\bin\Debug\net8.0\r
 C:\Users\VITORMARCELOBARZICKN\Desktop\projeto ewb\API_REVISAO\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\VITORMARCELOBARZICKN\Desktop\projeto ewb\API_REVISAO\obj\Debug\net8.0\API_REVISAO.csproj.AssemblyReference.cache
 C:\Users\VITORMARCELOBARZICKN\Desktop\projeto ewb\API_REVISAO\obj\Debug\net8.0\API_REVI.4EB7299C.Up2Date
+C:\Users\VITORMARCELOBARZICKN\Desktop\projeto ewb\API_REVISAO\obj\Debug\net8.0\API_REVISAO.sourcelink.json
