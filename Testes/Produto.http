@@ -1,0 +1,2 @@
+### Testar a raiz da aplicação
+GET http://localhost:5256/
