@@ -9,3 +9,6 @@ Content-Type: application/json
     "Nome" : "Notebook",
     "Quantidade" : 150
 }
+
+### Listar produto
+GET http://localhost:5256/api/produto/listar

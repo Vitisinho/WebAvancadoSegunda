@@ -15,4 +15,9 @@ app.MapPost("/api/produto/cadastrar", ([FromBody] Produto produto,
     return Results.Created("", produto);
 });
 
+app.MapGet("/api/produto/listar", ([FromServices] AppDataContext ctx) => 
+{
+    return Results.Ok(ctx.Produtos.ToList());
+});
+
 app.Run();
