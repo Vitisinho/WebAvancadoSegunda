@@ -3,3 +3,9 @@ GET http://localhost:5256/
 
 ### Cadastrar produto
 POST http://localhost:5256/api/produto/cadastrar
+Content-Type: application/json
+
+{
+    "Nome" : "Notebook",
+    "Quantidade" : 150
+}
