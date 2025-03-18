@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\projeto ewb\\API_REVISAO\\API_REVISAO.csproj": {}
+    "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\react\\WebAvancadoSegunda\\API_REVISAO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\projeto ewb\\API_REVISAO\\API_REVISAO.csproj": {
+    "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\react\\WebAvancadoSegunda\\API_REVISAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\projeto ewb\\API_REVISAO\\API_REVISAO.csproj",
+        "projectUniqueName": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\react\\WebAvancadoSegunda\\API_REVISAO.csproj",
         "projectName": "API_REVISAO",
-        "projectPath": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\projeto ewb\\API_REVISAO\\API_REVISAO.csproj",
+        "projectPath": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\react\\WebAvancadoSegunda\\API_REVISAO.csproj",
         "packagesPath": "C:\\Users\\VITORMARCELOBARZICKN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\projeto ewb\\API_REVISAO\\obj\\",
+        "outputPath": "C:\\Users\\VITORMARCELOBARZICKN\\Desktop\\react\\WebAvancadoSegunda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VITORMARCELOBARZICKN\\AppData\\Roaming\\NuGet\\NuGet.Config"
